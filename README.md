@@ -1,142 +1,46 @@
-# Developer Portfolio
+# Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+> See live demo: [https://itsvj.me](https://itsvj.me)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
----
+![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
 
-# Demo :movie_camera:
 
-![](./public/image/screen.png)
+Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
-## View live preview [here](https://abusaid.netlify.app/).
+> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@itsvj.me. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
 
----
+## **Portfolio Features:**
 
-## Table of Contents :scroll:
+* **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
+* **Clean Code 👍:** Well-formatted and easy to follow. 
+* **Real-World Showcase 💻:** Check out my actual projects!
+* **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
+* **Testimonials ✅:** Genuine reviews from friends and developers.
+* **SEO Optimed** Just Replace The Content at <head>
+* **And More!** See the details below.
+  
+## **Technologies Used:**
 
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
+* HTML, CSS, Bootstrap, JavaScript
+* Owl Carousel Library (for Testimonials)
+* jQuery (to support Owl Carousel)
+* AOS Library (for cool fade effects)
+* Fonts: Augustina, Rubik, Dancing Script
+* Bootstrap Icons
 
----
+## **Want to see it live? 👀**
 
-# Sections :bookmark:
+* Visit: [https://itsvj.me/](https://itsvj.me/)
+* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
 
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
+## **Why This Web Developer Portfolio Stands Out**
 
----
+* **User Experience Focus:**  The dual theme and speed optimizations show I care about delivering a great experience.
+* **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
+* **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
 
-# Installation :arrow_down:
+## **Contact**
 
-### You will need to download Git and Node to run this project
+Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
-
-#### Make sure you have the latest version of both Git and Node on your computer.
-
-```
-node --version
-git --version
-```
-
-## <br />
-
-# Getting Started :dart:
-
-### Fork and Clone the repo
-
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
-```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-
-cd developer-portfolio
-```
-
-### Install packages from the root directory
-
-```bash
-npm install
-# or
-yarn install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
-
-# Usage :joystick:
-
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
-
-Eg:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
-```
-
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
-
-# Packages Used :package:
-
-| Used Package List  |
-| :----------------: |
-|        next        |
-|  @emailjs/browser  |
-|    lottie-react    |
-| react-fast-marquee |
-|    react-icons     |
-|   react-toastify   |
-|        sass        |
-|    tailwindcss     |
-
----
+> ~ [hi@itsvj.me](mailto:hi@itsvj.me)
