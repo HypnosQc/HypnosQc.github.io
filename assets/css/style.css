@@ -581,8 +581,8 @@ a:hover{
 }
 
 .about-portrait .pic{
-    width: 70%;
-    height: auto;
+    max-width: 256px;
+    max-height: 256px;
     border-radius: 0.5rem;
     object-fit: cover;
 }
